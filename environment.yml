@@ -1,0 +1,10 @@
+name: my-r-env
+channels:
+  - hcc
+  - https://conda.anaconda.org/t/HC-87426f5f-7186-4015-b160-e228942c9e05/hcc
+  - bioconda
+  - conda-forge
+  - conda-forge/label/cf201901
+  - defaults
+  - file:///util/opt/conda_repo
+prefix: /home/riethoven/tpayne/.conda/envs/my-r-env
