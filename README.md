@@ -1,2 +1,2 @@
 # course-intro-dev
-Tutorial development.
+Tutorial Dev.
